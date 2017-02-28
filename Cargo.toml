@@ -1,0 +1,8 @@
+[package]
+name = "sleep_sort"
+version = "0.1.0"
+authors = ["sean <sean.a.moles@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+num = "0.1.36"
